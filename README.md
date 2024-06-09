@@ -1,1 +1,0 @@
-# 2GreekDevs-Discord-Bot
